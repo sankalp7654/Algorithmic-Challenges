@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TwoPointerApproach",
+            "request": "launch",
+            "mainClass": "TwoPointerApproach"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Subarray",
+            "request": "launch",
+            "mainClass": "Subarray"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CoinChangingMinimumCoin",
+            "request": "launch",
+            "mainClass": "CoinChangingMinimumCoin"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CoinChangeProblemDP",
+            "request": "launch",
+            "mainClass": "CoinChangeProblemDP"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NextGreaterNumber",
+            "request": "launch",
+            "mainClass": "NextGreaterNumber"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ColletionsDemo",
+            "request": "launch",
+            "mainClass": "ColletionsDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CollectionsDemo",
+            "request": "launch",
+            "mainClass": "CollectionsDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Person",
+            "request": "launch",
+            "mainClass": "Person"
+        }
+    ]
+}
